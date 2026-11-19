@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "General Consultation",
+    "category": "General",
+    "icon": "🩺",
+    "desc": "One-to-one check-up for common illnesses, symptoms and prescriptions.",
+    "duration": "30 min",
+    "price": "Rs 2,000"
+  },
+  {
+    "id": 2,
+    "name": "Full Health Check-up",
+    "category": "General",
+    "icon": "❤️",
+    "desc": "Complete screening with vitals, review of reports and a care plan.",
+    "duration": "60 min",
+    "price": "Rs 6,500"
+  },
+  {
+    "id": 3,
+    "name": "Dental Check-up & Cleaning",
+    "category": "Dental",
+    "icon": "🦷",
+    "desc": "Oral examination, scaling and polishing for a healthy smile.",
+    "duration": "45 min",
+    "price": "Rs 3,500"
+  },
+  {
+    "id": 4,
+    "name": "Teeth Whitening",
+    "category": "Dental",
+    "icon": "✨",
+    "desc": "Safe, in-clinic whitening to brighten your teeth by several shades.",
+    "duration": "60 min",
+    "price": "Rs 9,000"
+  },
+  {
+    "id": 5,
+    "name": "Skin Consultation",
+    "category": "Dermatology",
+    "icon": "✨",
+    "desc": "Acne, pigmentation, allergy and complete skin analysis.",
+    "duration": "30 min",
+    "price": "Rs 2,500"
+  },
+  {
+    "id": 6,
+    "name": "Hair & Scalp Treatment",
+    "category": "Dermatology",
+    "icon": "💇‍♀️",
+    "desc": "Hair fall, dandruff and scalp treatment with PRP guidance.",
+    "duration": "45 min",
+    "price": "Rs 4,500"
+  },
+  {
+    "id": 7,
+    "name": "Therapy Session",
+    "category": "Mental Health",
+    "icon": "🧠",
+    "desc": "One-to-one session for stress, anxiety, sleep and confidence.",
+    "duration": "50 min",
+    "price": "Rs 3,000"
+  },
+  {
+    "id": 8,
+    "name": "Anxiety & Stress Counselling",
+    "category": "Mental Health",
+    "icon": "💬",
+    "desc": "Talk therapy to manage overthinking, panic and daily stress.",
+    "duration": "45 min",
+    "price": "Rs 3,500"
+  },
+  {
+    "id": 9,
+    "name": "Diet & Nutrition Plan",
+    "category": "Nutrition",
+    "icon": "🥗",
+    "desc": "Personalized diet plan for weight loss, PCOS, diabetes and energy.",
+    "duration": "40 min",
+    "price": "Rs 2,500"
+  },
+  {
+    "id": 10,
+    "name": "Weight Management Program",
+    "category": "Nutrition",
+    "icon": "⚖️",
+    "desc": "3-month guided plan with diet, workout and weekly check-ins.",
+    "duration": "60 min",
+    "price": "Rs 5,000"
+  }
+]

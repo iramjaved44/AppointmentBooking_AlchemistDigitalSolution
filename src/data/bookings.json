@@ -1,0 +1,93 @@
+[
+  {
+    "id": "BK-1004",
+    "serviceId": 1,
+    "service": "General Consultation",
+    "price": "Rs 2,000",
+    "duration": "30 min",
+    "specialistId": 1,
+    "specialist": "Dr. Ayesha Malik",
+    "specialistRole": "Family Medicine",
+    "date": "2026-11-19",
+    "timeSlot": "10:00 AM",
+    "status": "Confirmed"
+  },
+  {
+    "id": "BK-1003",
+    "serviceId": 3,
+    "service": "Dental Check-up & Cleaning",
+    "price": "Rs 3,500",
+    "duration": "45 min",
+    "specialistId": 3,
+    "specialist": "Dr. Sana Rauf",
+    "specialistRole": "Dentist",
+    "date": "2026-11-19",
+    "timeSlot": "11:00 AM",
+    "status": "Confirmed"
+  },
+  {
+    "id": "BK-1005",
+    "serviceId": 2,
+    "service": "Full Health Check-up",
+    "price": "Rs 6,500",
+    "duration": "60 min",
+    "specialistId": 1,
+    "specialist": "Dr. Ayesha Malik",
+    "specialistRole": "Family Medicine",
+    "date": "2026-11-19",
+    "timeSlot": "12:00 PM",
+    "status": "Pending"
+  },
+  {
+    "id": "BK-1006",
+    "serviceId": 5,
+    "service": "Skin Consultation",
+    "price": "Rs 2,500",
+    "duration": "30 min",
+    "specialistId": 8,
+    "specialist": "Dr. Sara Khan",
+    "specialistRole": "Dermatologist",
+    "date": "2026-11-24",
+    "timeSlot": "02:00 PM",
+    "status": "Pending"
+  },
+  {
+    "id": "BK-1007",
+    "serviceId": 8,
+    "service": "Anxiety & Stress Counselling",
+    "price": "Rs 3,500",
+    "duration": "45 min",
+    "specialistId": 5,
+    "specialist": "Dr. Mahwish Tariq",
+    "specialistRole": "Psychologist",
+    "date": "2026-11-20",
+    "timeSlot": "04:00 PM",
+    "status": "Cancelled"
+  },
+  {
+    "id": "BK-1002",
+    "serviceId": 3,
+    "service": "Dental Check-up & Cleaning",
+    "price": "Rs 3,500",
+    "duration": "45 min",
+    "specialistId": 3,
+    "specialist": "Dr. Sana Rauf",
+    "specialistRole": "Dentist",
+    "date": "2026-11-14",
+    "timeSlot": "09:00 AM",
+    "status": "Completed"
+  },
+  {
+    "id": "BK-1001",
+    "serviceId": 1,
+    "service": "General Consultation",
+    "price": "Rs 2,000",
+    "duration": "30 min",
+    "specialistId": 1,
+    "specialist": "Dr. Ayesha Malik",
+    "specialistRole": "Family Medicine",
+    "date": "2026-11-12",
+    "timeSlot": "10:00 AM",
+    "status": "Completed"
+  }
+]

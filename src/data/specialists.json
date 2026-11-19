@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Ayesha Malik",
+    "initials": "AM",
+    "specialty": "Family Medicine",
+    "category": "General",
+    "desc": "Treats adults and children with a focus on preventive care and follow-up.",
+    "exp": 10,
+    "rating": "4.8",
+    "reviews": 120,
+    "days": "Mon, Wed, Fri"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Hamza Qureshi",
+    "initials": "HQ",
+    "specialty": "Family Medicine",
+    "category": "General",
+    "desc": "Family physician known for clear explanations and follow-up care.",
+    "exp": 8,
+    "rating": "4.7",
+    "reviews": 98,
+    "days": "Tue, Thu, Sat"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Sana Rauf",
+    "initials": "SR",
+    "specialty": "Dentist",
+    "category": "Dental",
+    "desc": "Cosmetic and general dentistry with a gentle approach.",
+    "exp": 9,
+    "rating": "4.9",
+    "reviews": 150,
+    "days": "Mon, Tue, Thu"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Bilal Ahmed",
+    "initials": "BA",
+    "specialty": "Cardiologist",
+    "category": "Cardiology",
+    "desc": "Heart specialist for blood pressure, cholesterol and heart checkups.",
+    "exp": 12,
+    "rating": "4.7",
+    "reviews": 210,
+    "days": "Mon, Wed, Fri"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Mahwish Tariq",
+    "initials": "MT",
+    "specialty": "Psychologist",
+    "category": "Mental Health",
+    "desc": "Helps with stress, anxiety, sleep and confidence building.",
+    "exp": 7,
+    "rating": "4.8",
+    "reviews": 85,
+    "days": "Tue, Thu, Sat"
+  },
+  {
+    "id": 6,
+    "name": "Dr. Usman Farooq",
+    "initials": "UF",
+    "specialty": "Nutritionist",
+    "category": "Nutrition",
+    "desc": "Weight loss, diabetes and diet plans made easy to follow.",
+    "exp": 6,
+    "rating": "4.6",
+    "reviews": 70,
+    "days": "Mon, Wed, Sat"
+  },
+  {
+    "id": 7,
+    "name": "Ms. Hira Nadeem",
+    "initials": "HN",
+    "specialty": "Dietitian",
+    "category": "Dietitian",
+    "desc": "Personalized meal and diet plans for a healthy lifestyle.",
+    "exp": 5,
+    "rating": "4.7",
+    "reviews": 60,
+    "days": "Tue, Fri, Sun"
+  },
+  {
+    "id": 8,
+    "name": "Dr. Sara Khan",
+    "initials": "SK",
+    "specialty": "Dermatologist",
+    "category": "Dermatology",
+    "desc": "Skin, hair and allergy care with personalized treatment plans.",
+    "exp": 7,
+    "rating": "4.9",
+    "reviews": 92,
+    "days": "Tue - Sat"
+  }
+]
